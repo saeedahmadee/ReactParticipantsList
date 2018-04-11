@@ -4,7 +4,7 @@ React Participants List is a signup form and a list of participants.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-52 participant items are generated on the server. Table of participants is sortable and there are options for removing a row.
+A minimum of 20 participant items are generated on the server. Table of participants is sortable and there are options for removing a row.
 React List is built using SCSS, create-react-app, Semantic UI, Webpack, and Express JS.
 
 Semantic UI is used for user interface library and there is a small server application written with ExpressJS that serves multiple APIs for create, read and delete functions.
