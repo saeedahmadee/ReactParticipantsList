@@ -13,7 +13,7 @@ Semantic UI is used for user interface library and there is a small server appli
 
 ## Local setup
 
-> You can use npm to create the dev environment. Check out setup instructions [here](https://www.npmjs.com/get-npm) if you don't have it installed already. After that, you can run npm install to install all the needed dependencies.
+> You can use npm to create the dev environment. Check out setup instructions [here](https://www.npmjs.com/get-npm) if you don't have it installed already. After that, you can run npm install to install all the needed dependencies. Use `npm run server` to run the server app and use `npm run start` to run the client app.
 
 ```
 $ npm install
