@@ -1,4 +1,4 @@
-# ReactParticipantsList
+# React Participants List
 
 React Participants List is a signup form and a list of participants.
 
