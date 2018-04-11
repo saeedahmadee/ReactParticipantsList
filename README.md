@@ -17,6 +17,6 @@ Semantic UI is used for user interface library and there is a small server appli
 
 ```
 $ npm install
-$ npm server
-$ npm start
+$ npm run server
+$ npm run start
 ```
